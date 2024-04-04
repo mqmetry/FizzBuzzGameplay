@@ -2,7 +2,7 @@ Feature: FizzBuzz Game play
 
 
 @requirementKey=QASI-RQ-11
-@testEntityKey=QASI-TC-132
+@testEntityKey=QASI-TC-133
 Scenario: Play FizzBuzz to get Fizz
 Given Create a FizzBuzz game play
 When I play with number 3
